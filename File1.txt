@@ -1,2 +1,3 @@
 Hi, I am Author of this file,
 This is the first file of Git Folder......
+Adding more items to file 2.
